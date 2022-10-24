@@ -1,4 +1,5 @@
-# On the Paradox of Certified Training
+# On the Paradox of Certified Training <a href="https://www.sri.inf.ethz.ch/"><img width="100" alt="portfolio_view" align="right" src="http://safeai.ethz.ch/img/sri-logo.svg"></a>
+
 
 The code accompanying our TMLR 10/2022 paper: [**On the Paradox of Certified Training**](https://openreview.net/forum?id=atJHLVyBi8).
 
