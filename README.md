@@ -42,11 +42,13 @@ Additionally, we provide snapshots of the models from Table 2 in `pretrained/`. 
 ## Citation
 
 ```
-@inproceedings{
-    jovanovic2022paradox,
-    title={On The Paradox of Certified Training},
-    author={Nikola Jovanovi\'{c} and Mislav Balunovi\'{c} and Maximilian Baader and Martin Vechev},
-    booktitle={Transactions on Machine Learning Research},
-    year={2022}
+@article{
+    jovanovi{\'c}2022on,
+    title={On the Paradox of Certified Training},
+    author={Nikola Jovanovi{\'c} and Mislav Balunovi\'{c} and Maximilian Baader and Martin Vechev},
+    journal={Transactions on Machine Learning Research},
+    year={2022},
+    url={https://openreview.net/forum?id=atJHLVyBi8},
+    note={}
 }
 ```
