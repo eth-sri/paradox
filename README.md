@@ -3,6 +3,8 @@
 
 The code accompanying our TMLR 10/2022 paper: [**On the Paradox of Certified Training**](https://openreview.net/forum?id=atJHLVyBi8).
 
+For a brief overview of the work, check out our **[blogpost](https://www.sri.inf.ethz.ch/blog/paradox)**.
+
 ## Requirements
 
 We require the following packages:
