@@ -45,7 +45,7 @@ Additionally, we provide snapshots of the models from Table 2 in `pretrained/`. 
 
 ```
 @article{
-    jovanovi{\'c}2022on,
+    jovanovic2022on,
     title={On the Paradox of Certified Training},
     author={Nikola Jovanovi{\'c} and Mislav Balunovi\'{c} and Maximilian Baader and Martin Vechev},
     journal={Transactions on Machine Learning Research},
